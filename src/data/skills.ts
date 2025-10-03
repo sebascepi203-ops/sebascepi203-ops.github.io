@@ -16,18 +16,18 @@ export const skills = [
   },
   {
     icon: `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 3C7 3 4 4.79 4 7v10c0 2.21 3 4 8 4s8-1.79 8-4V7c0-2.21-3-4-8-4zm0 2c3.87 0 6 .93 6 2s-2.13 2-6 2-6-.93-6-2 2.13-2 6-2zm0 6c3.87 0 6 .93 6 2s-2.13 2-6 2-6-.93-6-2 2.13-2 6-2z"/></svg>`,
-    title: "Databases & Caching",
-    description: "Schema design, migrations, and performance tuning with Postgres; caching and rate‑limiting with Redis.",
+    title: "Conocimientos básicos de hacking",
+    description: "Junto con los conocimientos de Ciberseguridad. Los conocimientos relacionados al hacking me permitira proteger la información de la empresa.",
   },
   {
     icon: `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 1010 10A10 10 0 0012 2zm-1 15l-4-4 1.41-1.41L11 14.17l6.59-6.59L19 9l-8 8z"/></svg>`,
-    title: "Testing & CI/CD",
-    description: "Unit, integration, and E2E tests (Jest, Playwright) with GitHub Actions pipelines, preview envs, and quality gates.",
+    title: "Ofimática",
+    description: "La utilización de herramientas relacionadas a ofimáticcas me permite realizar cualquier trabajo en oficina.",
   },
   {
     icon: `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M19 18H6a4 4 0 010-8 5 5 0 019.9-1.5A4.5 4.5 0 1119 18z"/></svg>`,
-    title: "Cloud & DevOps",
-    description: "AWS, Docker, and Terraform; secure deployments, monitoring/alerts, and cost‑aware operations.",
+    title: "Utilización de lenguajes de programación",
+    description: "Dentro de mis habilidades esta el utilizar lenguajes de programación conocidas, como Python, C** y Javascript.",
   },
 ];
 
