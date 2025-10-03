@@ -8,25 +8,25 @@ import TailwindIcon from '../assets/logos/Tailwind-logo.svg?raw';
 
 export const projects = [
 	{
-		title: "Workflow Automation Orchestrator (n8n)",
-		techStack: "n8n • Node.js • TypeScript • PostgreSQL",
-		description: "Event‑driven workflows for data sync, notifications, and back‑office automation. Custom nodes, secrets management, retries, and metrics.",
+		title: "Desarrollo de la página web de la institucion 1123",
+		techStack: "CPanel + CSS + HTML + Boostrap",
+		description: "Para ampliar el alcance de información para una institución, se diseño una página web estática. - Estado: Culminado",
 		ctaText: "View Repo →",
 		ctaLink: "#",
 		icon: N8nIcon
 	},
 	{
-		title: "SaaS API Starter (Auth, Billing, RBAC)",
-		techStack: "Node.js • TypeScript • PostgreSQL • Supabase • Stripe",
-		description: "Production‑ready REST/GraphQL API with JWT auth, role‑based access, Stripe subscriptions, and rate‑limited endpoints.",
+		title: "Configuración y modificación en el juego Mugen",
+		techStack: "",
+		description: "Mugen es un programa de pelea en la cual permite integrar nuevos elementos a gusto de la persona. Permitiendo una variedad ilimitada. - Estado: En desarrollo.",
 		ctaText: "Get Source < / >",
 		ctaLink: "#",
 		icon: SupabaseIcon
 	},
 	{
-		title: "Realtime Chat Service",
-		techStack: "Phoenix • WebSockets • Redis • Docker",
-		description: "Low‑latency chat with channels, presence, and backpressure handling. Includes load tests and horizontal scaling notes.",
+		title: "Elaboración de un formulario con ubicación real para la gestion logistica de resiudos solidos",
+		techStack: "Google forms - APIS - Google Colabs",
+		description: "Para conocer los puntos criticos de basura por las calles, se diseño un formulario la cual los ciudadanos podra responder mostrando la ubicacion de la acumulacion de basura .",
 		ctaText: "Live Demo →",
 		ctaLink: "#",
 		icon: PhoenixIcon
