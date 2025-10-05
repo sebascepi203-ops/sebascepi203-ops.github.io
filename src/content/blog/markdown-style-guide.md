@@ -29,11 +29,17 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 En la primera semana de clase se hizo la introducción sobre los fundamentos de la tencología web. presentando los siguientes temas:
 
 🔹 Estrategia de aprendizaje
+
 🔹 Tecnologías de desarrollo de software
+
 🔹 Estándares Internacionales para el Desarrollo Web
+
 🔹 ¿Cómo funciona la web? / DNS
+
 🔹 Contexto de Aplicaciones de Internet
+
 🔹 FrontEnd
+
 🔹 BackEnd
 
 ## Images
@@ -46,7 +52,7 @@ En la primera semana de clase se hizo la introducción sobre los fundamentos de 
 
 ### ¿Cómo funciona la web?
 
-![blog placeholder](../../assets/images/Como funciona.png)
+![blog placeholder](../../assets/images/Como_funciona.png)
 
 ## Blockquotes
 
