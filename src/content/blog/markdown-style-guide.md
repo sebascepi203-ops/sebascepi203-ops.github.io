@@ -1,7 +1,7 @@
 ---
 title: 'Semana 01'
 description: 'Contenido mostrado en la semana 01.'
-pubDate: 'Agosto 26 2025'
+pubDate: '2025-08-26'
 heroImage: '../../assets/images/example-blog-hero8.jpg'
 tags: ['astro']
 ---
