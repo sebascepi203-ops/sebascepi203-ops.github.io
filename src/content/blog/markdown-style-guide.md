@@ -32,7 +32,7 @@ En este blog se hablará sobre todo el contenido que me llamó la atención
 
 ### ¿Cómo funciona la web?
 
-![Imagen_ppt](../../assets/images/Como_funciona.png)
+![blog placeholder](../../assets/images/Como_funciona.png)
 
 ## FrontEnd y BackEnd
 
