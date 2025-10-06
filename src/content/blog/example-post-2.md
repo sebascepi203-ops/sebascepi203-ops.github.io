@@ -1,7 +1,7 @@
 ---
 title: 'Semana 2'
 description: 'Contenido mostrado en la semana 02'
-pubDate: 'Aug 14 2025'
+pubDate: '2025-09-2'
 heroImage: '../../assets/images/example-blog-hero2.jpg'
 category: 'Showcase'
 tags: ['astro', 'ui']
