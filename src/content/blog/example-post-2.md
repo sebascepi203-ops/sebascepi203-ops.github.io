@@ -2122,7 +2122,6 @@ Si la imagen que se quiere mostrar es demasiado grande para el fondo del element
 
 **Imagen original**
 
-![Texto alternativo](images.png)
 
 **Reglas CSS:**
 
@@ -2133,7 +2132,6 @@ Si la imagen que se quiere mostrar es demasiado grande para el fondo del element
         }
 **Resultado:**
 
-![Texto alternativo](imagen02.jpg)
 
 Con una imagen muy pequeña (y que por tanto, se puede descargar en muy poco tiempo) se consigue cubrir completamente el fondo de la página, con lo que se consigue un gran ahorro de ancho de banda. En ocasiones, no es conveniente que la imagen de fondo se repita horizontal y verticalmente. Para ello, CSS introduce la propiedad background-repeat que permite controlar la forma de repetición de las imágenes de fondo.
 
@@ -2306,11 +2304,9 @@ La mayoría de estos valores resultan ser más prácticos cuando se aplican a un
 
    ```
 - **Resultado:**
-![fIGURA2](2.png)
 
 ### 3\.1\.2 Medidas relativas:
 Son aquellas que dependen de otros elementos y, por lo tanto, pueden cambiar según las circunstancias, por ejemplo: al tamaño de letra del elemento principal o al tamaño de la ventana gráfica. La ventaja de usar unidades relativas es que con una planificación cuidadosa puedes lograr que el tamaño del texto u otros elementos escalen en relación con todo lo demás en la página. En la tabla siguiente se enumeran algunas de las unidades más útiles para el desarrollo web.
-![Fuente: MDN Web Docs, "Unidades y valores en CSS"](3.png)
 *Fuente: MDN Web Docs, "Unidades y valores en CSS"*
 
 **Ejemplo:**
@@ -2412,7 +2408,6 @@ Existen diversas propiedades que permiten modificar la ubicación de los element
 - Fixed: El elemento mantiene su posición fija, sin importar el desplazamiento de la página al hacer scroll.
 - Sticky: El elemento se mantiene fijo en su posición cuando el usuario lo encuentra al hacer scroll, pero solo dentro de su contenedor.
   
-![fIGURA4](5.png)
 *Fuente: Ceper. (2022). Manual de HTML y CSS. Universidad de los Andes.*
 
 **Ejemplo:**
@@ -2465,7 +2460,6 @@ Existen diversas propiedades que permiten modificar la ubicación de los element
     }
   ```
 - **Resultado:**
-  ![fIGURA4](6.png)
 
 # 4\.LAYOUT AVANZADO
 ## 4\.1 Flexbox Avanzado
