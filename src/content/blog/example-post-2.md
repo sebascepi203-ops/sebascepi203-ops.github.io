@@ -23,7 +23,7 @@ Para aprender sobre los conocimientos basicos para el desarrollo de las aplicaci
 
 Cabe recalcar que esta información no fue recopilada por mi, sino por mis compañeros de la universidad, que a su vez les invito a que miren su perfil
 
-#Grupo 1 - HTML Básico y avanzado
+# Grupo 1 - HTML Básico y avanzado
 
 
 <h1 align="center" >UNIVERSIDAD NACIONAL DEL CENTRO DEL PERÚ<h1>
