@@ -12,5 +12,5 @@ Hora de poner en practica lo aprendido.
 ## Practica de la semana 03
 
 En esta semana se realizaron prácticas relacionados a los temas aprendidos (HTML y CSS)
-
-https://github.com/Jhordan21-H/SEMANA3_DESARROLLOWEB 
+ 
+[Contenido de la práctica en Github](https://github.com/Jhordan21-H/SEMANA3_DESARROLLOWEB)
