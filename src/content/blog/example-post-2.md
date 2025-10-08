@@ -21,4 +21,10 @@ Para aprender sobre los conocimientos basicos para el desarrollo de las aplicaci
 
 🔹CSS Básico 
 
+🔹CSS Avanzado
+
+🔹CSS con Bootstrap
+
+🔹CSS con Tailwind
+
 Gracias a las exposiciones de mis compañeros se pudo entender mejor algunos temas.
