@@ -19,4 +19,10 @@ En la practica consistia lo siguiente:
 
 1. Diseñar un  formulario la cual permitia poner el nombre, el E-mail
 
-![imagen_01](../../assets/images/semana 03/01.png)
+![imagen_01](../src/assets/images/semana03/01.png)
+
+![imagen_02](../src/assets/images/semana03/02.png)
+
+![imagen_03](../src/assets/images/semana03/03.png)
+
+![imagen_04](../src/assets/images/semana03/04.png)
