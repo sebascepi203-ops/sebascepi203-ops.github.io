@@ -7,7 +7,9 @@ category: 'Showcase'
 tags: ['template', 'demo']
 ---
 
-This is a sample article used in the starter template. Replace it with your own content.
+Continuando con las exposiciones de los temas.
+
+## Exposición de los temas
 
 - Edit the title, description, and frontmatter
 - Drop your images into `src/assets/images/`
@@ -15,3 +17,7 @@ This is a sample article used in the starter template. Replace it with your own 
 
 
 En esta semana se siguito la exposición de los grupos, las cuales fueron los siguientes temas
+
+🔹JavaScript Básico
+
+🔹JavaScript Avanzado 
