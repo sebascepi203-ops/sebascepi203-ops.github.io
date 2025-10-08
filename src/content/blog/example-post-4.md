@@ -1,7 +1,7 @@
 ---
-title: 'Example Post Four'
+title: 'Semana 06'
 description: 'Showcase image layout and card behavior.'
-pubDate: 'Aug 12 2025'
+pubDate: '2025-09-30'
 heroImage: '../../assets/images/example-blog-hero4.jpg'
 category: 'Engineering'
 tags: ['template']
