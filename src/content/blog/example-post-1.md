@@ -14,3 +14,4 @@ This is a sample article used in the starter template. Replace it with your own 
 - Update tags and categories as needed
 
 
+En esta semana se siguito la exposición de los grupos, las cuales fueron los siguientes temas
