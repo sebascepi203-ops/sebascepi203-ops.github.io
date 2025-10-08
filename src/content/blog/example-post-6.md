@@ -1,7 +1,7 @@
 ---
-title: 'Example Post Six'
+title: 'Semana 07'
 description: 'Use this sample to test list and detail views.'
-pubDate: 'Aug 10 2025'
+pubDate: '2025-10-07'
 heroImage: '../../assets/images/example-blog-hero6.jpg'
 category: 'Engineering'
 tags: ['ui']
