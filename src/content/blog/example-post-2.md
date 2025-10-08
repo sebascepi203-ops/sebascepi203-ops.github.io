@@ -20,3 +20,5 @@ Para aprender sobre los conocimientos basicos para el desarrollo de las aplicaci
 🔹Html Avanzado 
 
 🔹CSS Básico 
+
+Gracias a las exposiciones de mis compañeros se pudo entender mejor algunos temas.
