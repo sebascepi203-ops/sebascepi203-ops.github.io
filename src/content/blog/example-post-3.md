@@ -1,7 +1,7 @@
 ---
-title: 'Example Post Three'
+title: 'Semana 05'
 description: 'Placeholder copy for template testing.'
-pubDate: 'Aug 10 2025'
+pubDate: '2025-09-23'
 heroImage: '../../assets/images/example-blog-hero3.jpg'
 category: 'Design'
 tags: ['demo']
