@@ -15,4 +15,8 @@ En esta semana se realizaron prácticas relacionados a los temas aprendidos (HTM
  
 [Contenido de la práctica en Github](https://github.com/Jhordan21-H/SEMANA3_DESARROLLOWEB)
 
-REcuerda poner imagenes en esta parte
+En la practica consistia lo siguiente:
+
+1. Diseñar un  formulario la cual permitia poner el nombre, el E-mail
+
+![imagen_01](../../assets/images/semana 03/01.png)
