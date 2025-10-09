@@ -1,27 +1,21 @@
 export const studies = [
   {
-    title: "B.S. in Computer Science",
-    institution: "State University",
+    title: "Ingles Básico-Intermedio",
+    institution: "Ceid - UNCP",
     description:
-      "Core CS foundations: data structures, algorithms, operating systems, networking, and databases; team capstone in web systems.",
+      "Estudie el lenguaje de Ingles en el Centro de idiomas de la Universidad del Centro del Perú, hasta el nivel intermedio.",
     tags: [
-      "Algorithms",
-      "Data Structures",
-      "Operating Systems",
-      "Databases",
-      "Networking",
+      "idioma",
     ],
   },
   {
-    title: "M.S. in Software Engineering",
-    institution: "Tech Institute",
+    title: "Robótica",
+    institution: "SENATI",
     description:
-      "Focus on distributed systems, testing strategies, and cloud architecture; thesis on resilience patterns in microservices.",
+      "Aprendí a diseñar robots y programarlos con lego mindstorms ev3.",
     tags: [
-      "Distributed Systems",
-      "Cloud Architecture",
-      "Testing",
-      "Microservices",
+      "Programación",
+      "Diseño",
     ],
   },
 ];
