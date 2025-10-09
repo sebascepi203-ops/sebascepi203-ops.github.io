@@ -11,8 +11,8 @@ export const projects = [
 		title: "Desarrollo de la página web de la institucion 1123",
 		techStack: "CPanel + CSS + HTML + Boostrap",
 		description: "Para ampliar el alcance de información para una institución, se diseño una página web estática. - Estado: Culminado",
-		ctaText: "View Repo →",
-		ctaLink: "#",
+		ctaText: "Ver página →",
+		ctaLink: "https://institucioneducativa1123.com.pe/",
 		icon: N8nIcon
 	},
 	{
@@ -27,32 +27,8 @@ export const projects = [
 		title: "Elaboración de un formulario con ubicación real para la gestion logistica de resiudos solidos",
 		techStack: "Google forms - APIS - Google Colabs",
 		description: "Para conocer los puntos criticos de basura por las calles, se diseño un formulario la cual los ciudadanos podra responder mostrando la ubicacion de la acumulacion de basura .",
-		ctaText: "Live Demo →",
-		ctaLink: "#",
+		ctaText: "Ver dashboard",
+		ctaLink: "https://lookerstudio.google.com/s/rqRjaXCXOME",
 		icon: PhoenixIcon
-	},
-	{
-		title: "Product Analytics Pipeline",
-		techStack: "Node.js • PostHog • PostgreSQL • ClickHouse",
-		description: "Event ingestion, batching, and replay; user properties and cohorts; dashboards for funnels, retention, and feature adoption.",
-		ctaText: "Read Case Study →",
-		ctaLink: "#",
-		icon: PosthogIcon
-	},
-	{
-		title: "Data Ingestion & ETL",
-		techStack: "Python • Airflow • PostgreSQL • S3",
-		description: "Scheduled extract/transform/load with schema migrations, data quality checks, and partitioned tables for analytics.",
-		ctaText: "View Repo →",
-		ctaLink: "#",
-		icon: PythonIcon
-	},
-	{
-		title: "Design System",
-		techStack: "React • TypeScript • Tailwind CSS • Storybook",
-		description: "Accessible UI kit with tokens, theming, and testing. Published as a versioned package with changelogs and docs.",
-		ctaText: "Docs →",
-		ctaLink: "#",
-		icon: TailwindIcon
 	},
 ];
