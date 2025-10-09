@@ -7,6 +7,8 @@ category: 'Design'
 tags: ['demo']
 ---
 
+Poniendo a pruebo los conocimientos
+
 Durante esta semana se desarrollo una práctica y luego se explicaron nuevos temas
 
 # Practica 03
