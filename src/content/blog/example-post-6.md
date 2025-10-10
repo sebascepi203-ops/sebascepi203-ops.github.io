@@ -1,4 +1,4 @@
-<img width="465" height="188" alt="image" src="https://github.com/user-attachments/assets/ea00cac8-0fff-49a6-af1e-940eb664d81f" />---
+---
 title: 'Semana 07'
 description: 'Contenido de la semana 07 ---> Hooks de React.'
 pubDate: '2025-10-07'
