@@ -9,7 +9,7 @@ tags: ['ui']
 
 Aprende un nuevo tema.
 
-# Hooks en React**
+# Hooks en React
 
 ###  1. Introducción a los Hooks
 
