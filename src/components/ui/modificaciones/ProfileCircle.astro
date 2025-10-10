@@ -1,5 +1,6 @@
 ---
-const { src = '../assets/images/sample-avatar.jpg', alt = 'Foto de perfil' } = Astro.props;
+import avatar from '../../../assets/images/sample-avatar.jpg';
+const { src = avatar, alt = 'Foto de perfil' } = Astro.props;
 ---
 
 <div class="profile-container">
@@ -31,6 +32,8 @@ const { src = '../assets/images/sample-avatar.jpg', alt = 'Foto de perfil' } = A
     object-fit: cover;
   }
 </style>
+
+
 
 
 
