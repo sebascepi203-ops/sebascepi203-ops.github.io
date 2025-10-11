@@ -14,7 +14,6 @@ import Carousel from '../components/ui/carousel/Carousel.astro';
 import { logos } from '../data/logos';
 import ArrowSeparator from '../components/ui/separator/ArrowSeparator.astro'
 import GlowLineSeparator from '../components/ui/separator/GlowLineSeparator.astro'
-import ProfileCircle from '../components/ui/modificaciones/ProfileCircle.astro';
 
 // Logos
 import astroLogo from '../assets/logos/Astro-logo.svg';
@@ -46,7 +45,28 @@ import figmaLogo from '../assets/logos/Figma-logo.svg';
 	<body>
 		<Header />
 		<main>
-		<ProfileCircle alt="Mi foto de perfil" />
+		<div style="
+   			display: flex; 
+    		justify-content: center; 
+		    align-items: center; 
+    		margin-top: 2rem; 
+    		margin-bottom: 2rem;
+  		">
+    	<div style="
+      		width: 200px; 
+      		height: 200px; 
+      		border-radius: 50%; 
+      		overflow: hidden; 
+      		border: 4px solid #4a90e2; 
+      		box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    	">
+      		<img 
+        		src="/images/mi-foto.jpg" 
+        		alt="Mi foto de perfil" 
+        		style="width: 100%; height: 100%; object-fit: cover;"
+      		/>
+    	</div>
+  	</div>
       <HeroSection
         title="Vive al límite, superate"
         subtitle="Construye y diseña nuevas innovaciones para el futuro."
