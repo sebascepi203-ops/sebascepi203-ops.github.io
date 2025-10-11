@@ -1,10 +1,11 @@
 ---
-const { src = '../../assets/images/example-blog-hero1.jpg', alt = 'Foto de perfil' } = Astro.props;
+import avatar from '../assets/images/example-blog-hero1.jpg';
+const { alt = 'Foto de perfil' } = Astro.props;
 ---
 
 <div class="profile-container">
   <div class="profile-circle">
-    <img src={src} alt={alt} />
+    <img src={avatar} alt={alt} />
   </div>
 </div>
 
@@ -31,6 +32,7 @@ const { src = '../../assets/images/example-blog-hero1.jpg', alt = 'Foto de perfi
     object-fit: cover;
   }
 </style>
+
 
 
 
