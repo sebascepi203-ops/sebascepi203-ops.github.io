@@ -1,7 +1,7 @@
 ---
-title: 'Example Post Seven'
-description: 'Sample hero image and metadata.'
-pubDate: 'Aug 09 2025'
+title: 'Semana 08'
+description: 'Semana de Consolidado.'
+pubDate: 'Oct 14 2025'
 heroImage: '../../assets/images/example-blog-hero7.jpg'
 category: 'Design'
 tags: ['demo']
