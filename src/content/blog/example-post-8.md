@@ -1,7 +1,7 @@
 ---
-title: 'Example Post Eight'
-description: 'Final sample post using example hero images.'
-pubDate: 'Aug 08 2025'
+title: 'Semana 09'
+description: 'Desarrollo Backend: Arquitectura y Principios.'
+pubDate: 'Oct 21 2025'
 heroImage: '../../assets/images/example-blog-hero8.jpg'
 category: 'Showcase'
 tags: ['template']
