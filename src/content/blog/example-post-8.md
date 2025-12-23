@@ -1,4 +1,4 @@
-<img width="466" height="525" alt="image" src="https://github.com/user-attachments/assets/da3ada91-0ec7-40a2-a69e-c834cbf74675" /><img width="441" height="199" alt="image" src="https://github.com/user-attachments/assets/738cce30-70a6-44f8-b236-662580b658a5" />---
+>---
 title: 'Semana 09'
 description: 'Desarrollo Backend: Arquitectura y Principios.'
 pubDate: 'Oct 21 2025'
