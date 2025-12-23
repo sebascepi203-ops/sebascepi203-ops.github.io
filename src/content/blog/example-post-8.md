@@ -1,4 +1,4 @@
->---
+---
 title: 'Semana 09'
 description: 'Desarrollo Backend: Arquitectura y Principios.'
 pubDate: 'Oct 21 2025'
