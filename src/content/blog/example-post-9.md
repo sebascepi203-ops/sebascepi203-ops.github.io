@@ -1,6 +1,6 @@
 ---
 title: 'Semana 10'
-description: 'Contenido mostrado en la semana 01.'
+description: 'Desarrollo Backend con JSP y Spring'
 pubDate: '2025-10-28'
 heroImage: '../../assets/images/example-blog-hero8.jpg'
 tags: ['astro']
