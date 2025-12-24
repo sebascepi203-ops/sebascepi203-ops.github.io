@@ -6,46 +6,221 @@ heroImage: '../../assets/images/example-blog-hero8.jpg'
 tags: ['astro']
 ---
 
-El inicio de una aventura digital.
+# 🚀 **Resumen Vistoso – Desarrollo Backend con JSP y Spring**
 
-## Introducción al curso de Desarrollo web
+## 🖥️ 1. Servidor Web: Apache Tomcat
 
-## Contenido
+**Apache Tomcat** es un **contenedor de servlets y JSP** desarrollado por la Apache Software Foundation bajo el proyecto Jakarta.
 
-En la primera semana de clase se hizo la introducción sobre los fundamentos de la tencología web. presentando los siguientes temas:
+🔹 Características clave:
 
-🔹 Estrategia de aprendizaje
+* Implementa **Servlet** y **JavaServer Pages (JSP)**.
+* Usa el contenedor **Catalina**.
+* Versiones modernas: **Tomcat 9.x y 10.x**.
+* Software libre bajo licencia Apache.
 
-🔹 Tecnologías de desarrollo de software
+📁 **Estructura de directorios**:
 
-🔹 Estándares Internacionales para el Desarrollo Web
+* `bin` → scripts de inicio y parada
+* `conf` → archivos de configuración
+* `webapps` → aplicaciones web
+* `logs` → registros del servidor
+* `temp` / `work` → archivos temporales
 
-🔹 ¿Cómo funciona la web? / DNS
+⚙️ **Archivo `server.xml`**
+Es el núcleo de configuración del servidor:
 
-🔹 Contexto de Aplicaciones de Internet
+* `<Server>` → servidor principal
+* `<Service>` → agrupa conectores
+* `<Connector>` → puertos y protocolos
+* `<Engine>` → procesamiento de solicitudes
+* `<Host>` → host virtual
+* `<Context>` → aplicación web
 
-🔹 FrontEnd
+---
 
-🔹 BackEnd
+## 📦 2. Gestión de Dependencias con Maven
 
-En este blog se hablará sobre todo el contenido que me llamó la atención 
+**Maven** es una herramienta que automatiza la construcción de proyectos Java.
 
-### ¿Cómo funciona la web?
+🔧 Permite:
 
-![blog placeholder](../../assets/images/Como_funciona.png)
+* Gestionar dependencias
+* Compilar código
+* Ejecutar pruebas
+* Empaquetar (`.jar`, `.war`)
+* Desplegar aplicaciones
 
-## FrontEnd y BackEnd
+📄 **Archivo clave: `pom.xml`**
+Contiene:
 
-Es importante que en el desarrollo de aplicaciones web se tenga estos dos desarrollos. El desarrollo frontend se encarga basicamente de la interfaz y la experencia que va tener el usuario al utilizar la aplicación. En este apartado se ve HTML, CSS y Javascript.
+* Información del proyecto
+* Dependencias
+* Configuración del compilador
 
-En cambio, el Backend se encarga de la aprte logica, la base de datos y el funcionamiento interno de la aplicación. En este desarrollo se trabaja con.
+🔄 **Ciclo de vida Maven**:
 
-🔹 Lenguajes de programación como Python, Java, PHP, Node.js, Ruby
+* `compile`
+* `test`
+* `package`
+* `install`
+* `deploy`
 
-🔹 Bases de datos como MySQL, PostgreSQL, MongoDB
+🧩 Se integra con IDEs como **IntelliJ IDEA, Eclipse y NetBeans**.
 
-🔹 Servidores y APIs que permiten la comunicación entre el frontend y el backend
+---
 
-## DNS - Sistema de Nombres de Dominio 
+## 📄 3. Jakarta Server Pages (JSP)
 
-El DNS es la dirección telefónico del Internet. Para acceder a la información se usa nombres de dominio. EN el caso de los navegadores web usan direccion IP. Al final el DNS traduce el nombre del dominio a la direccion IP para acceder en los navegadores.
+**JSP** es un lenguaje del lado servidor que permite generar contenido web dinámico usando Java.
+
+✨ Ventajas:
+
+* Independiente de plataforma
+* Acceso completo a APIs Java
+* Integración directa con bases de datos (JDBC)
+
+🔁 **Procesamiento JSP**:
+
+1. El servidor recibe la solicitud
+2. Convierte JSP en servlet
+3. Compila y ejecuta
+4. Genera HTML para el navegador
+
+![imagen_01](../../assets/images/semana10/01.png)
+
+---
+
+## ✍️ 4. Sintaxis Básica de JSP
+
+### 🔹 Scriptlets
+
+Permiten escribir código Java:
+
+```jsp
+<% out.println("Hola desde JSP"); %>
+```
+
+### 🔹 Declaraciones
+
+Definen variables o métodos:
+
+```jsp
+<%! int contador = 0; %>
+```
+
+### 🔹 Expresiones
+
+Muestran resultados en HTML:
+
+```jsp
+<%= new java.util.Date() %>
+```
+
+### 💬 Comentarios JSP
+
+```jsp
+<%-- Comentario JSP --%>
+```
+
+---
+
+## 🧭 5. Directivas y Acciones JSP
+
+### 📌 Directivas
+
+Controlan el comportamiento de la página:
+
+* `<%@ page %>` → configuración general
+* `<%@ include %>` → incluir archivos
+* `<%@ taglib %>` → librerías de etiquetas
+
+### ⚙️ Acciones JSP
+
+Controlan el flujo de ejecución:
+
+```jsp
+<jsp:action_name />
+```
+
+---
+
+## 🧰 6. Objetos Implícitos JSP
+
+JSP proporciona **9 objetos automáticos**, entre ellos:
+
+* `request` → datos del cliente
+* `response` → respuesta HTTP
+* `session` → datos de sesión
+* `application` → contexto global
+* `out` → salida al navegador
+
+📌 Facilitan la interacción entre cliente y servidor.
+
+---
+
+## 🏗️ 7. Arquitectura MVC en JSP
+
+El patrón **MVC (Modelo–Vista–Controlador)** separa responsabilidades:
+
+* **Vista:** JSP
+* **Controlador:** Servlets
+* **Modelo:** Clases Java / Base de datos
+
+  ![imagen_02](../../assets/images/semana10/02.png)
+
+🎯 Beneficios:
+
+* Mejor organización
+* Código mantenible
+* Separación de lógica y presentación
+
+---
+
+## 🌱 8. Spring Framework
+
+**Spring** es un framework robusto para aplicaciones empresariales Java.
+
+### 🔄 Inversión de Control (IoC)
+
+El framework gestiona la creación y ciclo de vida de los objetos.
+
+### 💉 Inyección de Dependencias (DI)
+
+Las dependencias se inyectan automáticamente:
+
+* Por constructor
+* Por setters
+* Por configuración XML o anotaciones
+
+### 🫘 Beans
+
+Son componentes Java administrados por Spring.
+
+📦 **Spring Container**
+
+* Crea
+* Configura
+* Relaciona
+* Destruye objetos automáticamente
+
+---
+
+## ⚡ 9. Spring Boot
+
+**Spring Boot** simplifica el desarrollo con Spring.
+
+🚀 Características:
+
+* Configuración automática
+* Servidor embebido
+* Menos código repetitivo
+* Ideal para APIs REST
+
+  ![imagen_03](../../assets/images/semana10/03.png)
+
+🌐 Inicialización rápida:
+👉 [https://start.spring.io](https://start.spring.io)
+
+---
+
