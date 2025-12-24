@@ -37,7 +37,6 @@ Es el núcleo de configuración del servidor:
 * `<Host>` → host virtual
 * `<Context>` → aplicación web
 
----
 
 ## 📦 2. Gestión de Dependencias con Maven
 
@@ -68,7 +67,6 @@ Contiene:
 
 🧩 Se integra con IDEs como **IntelliJ IDEA, Eclipse y NetBeans**.
 
----
 
 ## 📄 3. Jakarta Server Pages (JSP)
 
@@ -89,7 +87,6 @@ Contiene:
 
 ![imagen_01](../../assets/images/semana10/01.png)
 
----
 
 ## ✍️ 4. Sintaxis Básica de JSP
 
@@ -123,7 +120,6 @@ Muestran resultados en HTML:
 <%-- Comentario JSP --%>
 ```
 
----
 
 ## 🧭 5. Directivas y Acciones JSP
 
@@ -143,7 +139,6 @@ Controlan el flujo de ejecución:
 <jsp:action_name />
 ```
 
----
 
 ## 🧰 6. Objetos Implícitos JSP
 
@@ -157,7 +152,6 @@ JSP proporciona **9 objetos automáticos**, entre ellos:
 
 📌 Facilitan la interacción entre cliente y servidor.
 
----
 
 ## 🏗️ 7. Arquitectura MVC en JSP
 
@@ -175,7 +169,6 @@ El patrón **MVC (Modelo–Vista–Controlador)** separa responsabilidades:
 * Código mantenible
 * Separación de lógica y presentación
 
----
 
 ## 🌱 8. Spring Framework
 
@@ -204,7 +197,6 @@ Son componentes Java administrados por Spring.
 * Relaciona
 * Destruye objetos automáticamente
 
----
 
 ## ⚡ 9. Spring Boot
 
@@ -221,6 +213,4 @@ Son componentes Java administrados por Spring.
 
 🌐 Inicialización rápida:
 👉 [https://start.spring.io](https://start.spring.io)
-
----
 
