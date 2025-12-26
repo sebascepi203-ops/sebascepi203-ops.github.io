@@ -2,7 +2,7 @@
 title: 'Semana 09'
 description: 'Desarrollo Backend: Arquitectura y Principios.'
 pubDate: 'Oct 21 2025'
-heroImage: '../../assets/images/example-blog-hero8.jpg'
+heroImage: '../../assets/images/example-blog-hero9.png'
 category: 'Showcase'
 tags: ['template']
 ---
