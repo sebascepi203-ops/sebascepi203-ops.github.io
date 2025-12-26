@@ -2,11 +2,11 @@
 title: 'Semana 10'
 description: 'Desarrollo Backend con JSP y Spring'
 pubDate: '2025-10-28'
-heroImage: '../../assets/images/example-blog-hero8.jpg'
+heroImage: '../../assets/images/example-blog-hero10.png'
 tags: ['astro']
 ---
 
-# 🚀 **Resumen Vistoso – Desarrollo Backend con JSP y Spring**
+# 🚀 **Desarrollo Backend con JSP y Spring**
 
 ## 🖥️ 1. Servidor Web: Apache Tomcat
 
