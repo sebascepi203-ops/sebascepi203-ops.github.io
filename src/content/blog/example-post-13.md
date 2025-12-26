@@ -2,7 +2,7 @@
 title: 'Semana 14'
 description: 'SISTEMAS INTELIGENTES EN PYTHON'
 pubDate: '2025-12-16'
-heroImage: '../../assets/images/example-blog-hero8.jpg'
+heroImage: '../../assets/images/example-blog-hero13.png'
 tags: ['astro']
 ---
 
