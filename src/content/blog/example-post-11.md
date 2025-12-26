@@ -2,7 +2,7 @@
 title: 'Semana 12'
 description: 'Desarrollo Backend con PHP y Laravel'
 pubDate: '2025-12-2'
-heroImage: '../../assets/images/example-blog-hero8.jpg'
+heroImage: '../../assets/images/example-blog-hero11.jpg'
 tags: ['astro']
 ---
 
