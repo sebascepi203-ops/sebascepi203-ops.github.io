@@ -2,12 +2,12 @@
 title: 'Semana 13'
 description: 'Desarrollo Backend con Python, Flask y Apache'
 pubDate: '2025-12-9'
-heroImage: '../../assets/images/example-blog-hero8.jpg'
+heroImage: '../../assets/images/example-blog-hero12.png'
 tags: ['astro']
 ---
 
 
-# 🐍 **Resumen Vistoso – Desarrollo Backend con Python, Flask y Apache**
+# 🐍 **Desarrollo Backend con Python, Flask y Apache**
 
 ## 🌐 1. Servidor Web: Apache HTTP Server
 
